@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ansh, 3rd Year Undergrad at IIT Bombay 
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in ML/AI, Data Science and software development
 - 💞️Hit me up if you want to or want me to collab in anything I'll be down
 
 - 📫 email: charakansh0@gmail.com
