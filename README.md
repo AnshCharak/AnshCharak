@@ -4,7 +4,7 @@
 
 - 📫 email: charakansh0@gmail.com
 - insta: https://www.instagram.com/_ansh_charak/
-- fb : https://www.facebook.com/ansh.charak.731/
+- LinkedIn : https://www.linkedin.com/in/anshcharak
 
 <!---
 AnshCharak/AnshCharak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
