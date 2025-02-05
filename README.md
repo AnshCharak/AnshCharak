@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ansh, final year Undergrad at IIT Bombay 
+- 👋 Hi, I’m Ansh, a recent Undergrad from IIT Bombay (B.tech and M.tech)
 - 👀 I’m interested in ML/AI, Data Science and software development and currently exploring Quant roles
 - 💞️Hit me up if you want to or want me to collab in anything I'll be down
 
