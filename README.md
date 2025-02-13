@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ansh, a recent Undergrad from IIT Bombay (B.tech and M.tech)
-- 👀 I’m interested in ML/AI, Data Science and software development and currently exploring Quant roles
-- 💞️Hit me up if you want to or want me to collab in anything I'll be down
+- 👋 Hi, I’m Ansh, a recent graduate from IIT Bombay (B.tech and M.tech)
+- 👀 I’m interested in ML/AI, Data Science and software development.
+- 💞️Currently working on a few projects, feel free to reach out!
 
 - 📫 email: charakansh0@gmail.com
 - insta: https://www.instagram.com/_ansh_charak/
